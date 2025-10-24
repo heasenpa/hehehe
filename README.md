@@ -3,7 +3,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NotError4o4/autochoos
 repeat wait() until game:IsLoaded()
 wait(5)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/heasenpa/RobloxAutoFarmPro/refs/heads/main/message.txt", true))()
-repeat wait() until game:IsLoaded()
-wait(5)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/batusz/main/roblox/__Anti__Afk__Script__", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/heasenpa/autojoinkick/refs/heads/main/Join", true))()
