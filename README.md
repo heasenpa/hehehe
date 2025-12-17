@@ -1,5 +1,5 @@
 repeat wait() until game:IsLoaded()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NotError4o4/autochoose/refs/heads/main/mmb"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/heasenpa/Divine/refs/heads/main/README.md"))()
 repeat wait() until game:IsLoaded()
 wait(5)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/heasenpa/RobloxAutoFarmPro/refs/heads/main/message.txt", true))()
